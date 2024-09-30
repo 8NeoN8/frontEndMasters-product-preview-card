@@ -10,11 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -28,12 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/desktop_screenshot.png)
+![](./images/mobile_screenshot.png)
 
 ### Links
 
 - Solution URL: [Github](https://github.com/8NeoN8/frontEndMasters-product-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Page](https://8neon8.github.io/frontEndMasters-product-preview-card/)
 
 ## My process
 
@@ -42,15 +39,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-
-### What I learned
-
-### Continued development
-
-### Useful resources
-
 
 ## Author
 
